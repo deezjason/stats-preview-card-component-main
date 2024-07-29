@@ -27,8 +27,8 @@ body{
 }
 
 .title{
-    font-size: 40px;
-    margin-bottom: 25px;
+    font-size: 35px;
+    margin-bottom: 35px;
 }
 .words{
     font-family: "Inter", sans-serif;
@@ -41,9 +41,9 @@ body{
 
 }
 .paragraph{
-    margin-bottom: 25px;
+    margin-bottom: 85px;
     font-size: 15px;
-    line-height: 20px;
+    line-height: 25px;
     color: hsla(0, 0%, 100%, 0.75);
 }
 h3{
